@@ -12,6 +12,25 @@
 
 ---
 
+## 🧑‍💻 My Portfolio
+
+### 💼 名刺管理アプリ
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arunbababa&repo=buisiness-card-application&theme=vue-dark)](https://github.com/arunbababa/buisiness-card-application)  
+✨ You can view it live here: [https://buisiness-card-app.web.app](https://buisiness-card-app.web.app)
+
+---
+
+### 🏋️ 筋トレカロリー計算アプリ（🚧 Coming Soon...）
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arunbababa&repo=workout-calorie-tracker&theme=vue-dark)](https://github.com/arunbababa/workout-calorie-tracker)  
+✨ Preview (WIP): [https://workout-calorie-tracker.web.app](https://workout-calorie-tracker.web.app)
+
+---
+
+### 📄 My Resume
+✨ View it here: [https://arunbababa.github.io/resume/](https://arunbababa.github.io/resume/)
+
+---
+
 ## 🌱 Now Training
 
 <img src="https://skillicons.dev/icons?i=react,typescript,supabase,firebase,python" /><br/>
@@ -20,21 +39,14 @@
 
 ## 🔗 Contact / Links
 
-<p align="left">
-  <a href="https://x.com/arunbababa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://qiita.com/arunbababa" target="_blank">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white" />
-  </a>
-  <a href="https://lapras.com/person" target="_blank">
-    <img src="https://img.shields.io/badge/LAPRAS-blue?style=flat-square&logo=lapras&logoColor=white" />
-  </a>
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/arunbababa?style=social)](https://x.com/arunbababa)
+[![Qiita](https://img.shields.io/badge/Qiita-arunbababa-green?logo=qiita)](https://qiita.com/arunbababa)
+[![LAPRAS](https://img.shields.io/badge/LAPRAS-Profile-blue?logo=lapras)](https://lapras.com/person)
+
 
 ---
 
-## 🛠️ Skills & Tools i used in past
+## 🛠️ Skills & Tools I have used for my practice
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,react,typescript,javascript,html,css,jest,supabase,firebase,python" />
 <img src="https://skillicons.dev/icons?i=chakraui,tailwindcss,vite" />
