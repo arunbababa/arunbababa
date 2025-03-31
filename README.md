@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 My Portfolio
 
-### 💼 名刺管理アプリ
+### 💼 交流会アプリ
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arunbababa&repo=buisiness-card-application&theme=vue-dark)](https://github.com/arunbababa/buisiness-card-application)  
 ✨ You can view it live here: [https://buisiness-card-app.web.app](https://buisiness-card-app.web.app)
 
