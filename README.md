@@ -7,7 +7,7 @@ I'm a web developer, started
 
 ### 🌱 my skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,go,dart,php,nodejs,swift,kotlin,html,css,sass,tailwind,react,nextjs,vue,nuxtjs,express,nestjs,laravel,flutter,docker,aws,gcp,graphql,mysql,postgres,firebase,supabase,prisma,jest,npm,yarn,webpack&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,go,nodejs,html,css,sass,tailwind,react,nextjs,express,nestjs,docker,aws,gcp,graphql,mysql,postgres,firebase,supabase,prisma,jest,npm,yarn,webpack&perline=10)](https://skillicons.dev)
 
 ### 🍪 likes
 * Beautiful code
