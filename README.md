@@ -2,7 +2,7 @@
 
 I'm a web developer, started 
 
-### 🌱 my skills
+### 🌱 learning...
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,go,java,nodejs,html,css,sass,tailwind,react,nextjs,express,nestjs,spring,docker,aws,gcp,graphql,mysql,postgres,firebase,supabase,prisma,jest,npm,yarn,webpack&perline=10)](https://skillicons.dev)
 
